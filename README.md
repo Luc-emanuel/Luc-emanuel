@@ -9,7 +9,7 @@
   <h2>⚡️ Alguns fatos rápidos</h2>
   <ul>
     <li>👨‍💻 Meus projetos públicos estão disponíveis em meu <a target="_blank" href="https://www.luc-portfolio.com/">site</a>.</li>
-    <li>📝 Meu <a target="_blank" href="https://www.linkedin.com/in/lucas-emanuel-2ba4101a2/">LinkedIn</a>.</li>
+    <li>📝 Meu <a target="_blank" href="https://www.linkedin.com/in/luc-emanuel/">LinkedIn</a>.</li>
     <li>💬 Fale comigo sobre <strong>Backend, Frontend, Data Science, ML, Cloud</strong>.</li>
     <li>🎉 Curiosidade: Eu amo pimentas ❤️</li>
   </ul>
